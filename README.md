@@ -12,5 +12,5 @@ This project contains:
 - Everything about "FreeJoy"
 - Putting the parts together
 
-Here is the 3D prited throttle:
+Here is the 3D printed throttle:
 [Click me!](https://www.thingiverse.com/thing:4935709)
